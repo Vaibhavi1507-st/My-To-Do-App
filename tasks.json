@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "text": "learn python",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "text": "learn cpp",
+        "status": "completed"
+    }
+]
